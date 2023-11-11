@@ -7,7 +7,6 @@ body {
     margin: 0;
     padding: 0;
 }
-
 .img {
     background-image: url("Photo/75451e72166eaa53461aa27dca30a8d0.jpg");
     width: 100%;
@@ -46,18 +45,19 @@ h1 {
 }
 table {
     background-color: rgb(255 255 255 / 0.3);
-        backdrop-filter: blur(10px);
-        border-radius: 10px;
-        
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
     margin-top: 190px;
     margin-left: 150PX;
     margin-right: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
 
     }
     .Logo {
-      
-        position:static;
-        text-align: center;
+     position:static;
+     text-align: center;
     }
     .Logo img{
       width: 300px;
@@ -65,3 +65,4 @@ table {
       background-size: cover;
       margin-left: 50px;
     }
+   
