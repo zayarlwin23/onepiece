@@ -54,4 +54,14 @@ table {
     margin-right: 150px;
 
     }
-    
+    .Logo {
+      
+        position:static;
+        text-align: center;
+    }
+    .Logo img{
+      width: 300px;
+      height: 100px;
+      background-size: cover;
+      margin-left: 50px;
+    }
